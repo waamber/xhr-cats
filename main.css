@@ -1,0 +1,47 @@
+body {
+	background-color: tomato;
+	font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+.heading {
+	text-align: center;
+	font-size: 65px;
+}
+
+#kat-koral {
+	text-align: center;
+}
+
+.catCard {
+	color: white;
+	text-shadow: 2px 2px black;
+	text-align: center;
+	display: inline-block;
+	margin: 10px;
+	border: 2px solid lightgrey;
+	border-radius: 5px;
+	width: 400px;
+	height: 400px;
+}
+
+.catCard h1 {
+	margin: 2px;
+	padding: 2px;
+}
+
+h2 {
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+.catImg {
+	text-align: center;
+}
+
+img {
+	margin: 0 auto;
+	border: 3px solid lightgrey;
+	width: 200px;
+	height: 200px;
+}
